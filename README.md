@@ -41,7 +41,7 @@ An asynchronous Python web scraping pipeline built to extract, normalize, and ex
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install nodriver  BeautifulSoup4
    ```
 
 3. **Run the scraper**
